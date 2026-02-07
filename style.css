@@ -129,6 +129,14 @@ body::before {
   font-size: 15px;
 }
 
+.recipe-img-large {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 15px;
+}
+
 .recipe-img {
   display: block;
   margin: 0 auto;
